@@ -8,8 +8,10 @@
 - `formatLIWC.py`
 
 # Case Specific Analysis
-- `Multiple_data_analyse.py`
 - `Multiple_review_check.py`
+  This script checks for existence of multiple reviews made by a single user on a particular gig. It runs on the existing    collection of gigs and creates a new collection which gives the gig-wise data on the number of reviews made by each user   that has purchased the gig. It also stores the actual message present in those reviews.
+- `Multiple_data_analyse.py`
+  This script works on the collection made by the above file and finds out statistical data like the "Average Number of      reviews given by a single user per gig" and "Average number of users making multiple reviews per gig".
 
 # Sentiment Analysis
 - `senti_dict.py`
