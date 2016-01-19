@@ -3,13 +3,14 @@
 - `Main2.py`
   This crawler was used for Programming and Tech category and other similar.
 - `Main_format2.py`
+  This crawler is used for extracting information out of Advertising, Business and other similar categories. You will be able to recognise the categories if you will have a look into Fiverr.
 - `others.py`
-  This crawler was used for Others category.
+  This crawler was used for 'Others' category.
 - `username.py`
 
 # Processing
 - `formatLIWC.py`  
-
+  This code is used to convert the dataset into LIWC understandable format. 
 
 # Case Specific Analysis
 - `Multiple_review_check.py`  
