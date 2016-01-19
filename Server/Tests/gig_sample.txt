@@ -1,0 +1,116 @@
+{
+	"Gig_name": "I will design 2 AWESOME logo design for $5",
+	"Category":"Graphics & Design",
+	"Sub Category":"Logo Design",
+	"Rating": "4.8",
+	"Description":"I will design 2 AWESOME logo for your business or website.We are providing high quality
+logo design service with unmatched quality and outstanding delivery time.
+Recent work portfolio samples: http://flic.kr/s/aHsjN69r3qHere is what we are delivering for $5.We deliver 1000px X 1000px Design in JPG & transparent PNG formats.All new orders will be delivered in next 5 days.We provide 2 modifications on every standard order.Outstanding customer support.Money back guaranty.Note:Please read all the information before you place any orderContact us for feasibility before you order 'mascot design' gigextra.We don't design the 3D logo.We don't provide the vector file for the mock-up file.For the PSD file of the business card it will cost $10.SUNDAY IS OUR DAY OFF.LOGO design - Professional logo - Website logo - Corporate logo",
+"Reviews":{
+		"Review1":
+			{
+				"User":"famousdavis",
+				"Message":
+                "Extremely pleased with the design I got for my artwork request!  For $5, Gigblast gave me two different by nice-looking designs to choose from, and incorporated a statistical bell-shaped curve in an interesting and easy-to-publish design.  The back-and-forth discussion led to a great result.",
+				"Rating-Date":"Today"
+			},
+		"Review2":
+			{
+				"User":"kandacefriend",
+				"Message":
+                "Thank you very much for your services!!",
+				"Rating-Date":"Today"
+			},
+		"Review3":
+			{
+				"User":"tunckaany",
+				"Message":
+                "Perfect design.",
+				"Rating-Date":"Today"
+			},
+		"Review4":
+			{
+				"User":"spicesurprise",
+				"Message":
+                "you can really see the 3 minutes they worked on this",
+				"Rating-Date":"Today"
+			},
+		"Review5":
+			{
+				"User":"choonhong",
+				"Message":
+                "Great",
+				"Rating-Date":"Today"
+			},
+		"Review6":
+			{
+				"User":"blacgenius",
+				"Message":
+                "gigblast is my go to fiverr graphic artist",
+				"Rating-Date":"Today"
+			},
+		"Review7":
+			{
+				"User":"slojave",
+				"Message":
+                "Outstanding Experience!",
+				"Rating-Date":"Today"
+			},
+		"Review8":
+			{
+				"User":"hillsman7",
+				"Message":
+                "This is the usual HIGH QUALITY work from gigblast and this gig is my first goto gig when I need a logo. Always easy to communicate with and exceptional interpretation of the supplied info. Awesomnessssssss",
+				"Rating-Date":"Today"
+			},
+		"Review9":
+			{
+				"User":"bjcalhoun",
+				"Message":
+                "Outstanding Experience!",
+				"Rating-Date":"Today"
+			},
+		"Review10":
+			{
+				"User":"depablo",
+				"Message":
+                "nice !",
+				"Rating-Date":"Today"
+			},
+		"Review11":
+			{
+				"User":"kyle55",
+				"Message":
+                "Great seller will be back!",
+				"Rating-Date":"about 19 hours ago"
+			},
+		"Review12":
+			{
+				"User":"pusheen",
+				"Message":
+                "Horrible. Would never use them again",
+				"Rating-Date":"about 20 hours ago"
+			},
+		"Review13":
+			{
+				"User":"kayelesley",
+				"Message":
+                "thank you..once again a great job",
+				"Rating-Date":"about 21 hours ago"
+			},
+		"Review14":
+			{
+				"User":"abolitionist1",
+				"Message":
+                "Needed some fast creative ideas on a brand transition. Went for the $5 two logo idea to just take a chance on Fiverr. Gigblast gave two great concepts. I am definitely going to use them for additional add on services....Great outcome with this service! And, the communication was great!",
+				"Rating-Date":"about 21 hours ago"
+			},
+		"Review15":
+			{
+				"User":"jaytyler",
+				"Message":
+                "Amazing ",
+				"Rating-Date":"about 21 hours ago"
+			}
+        }
+}
