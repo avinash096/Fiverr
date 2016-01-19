@@ -3,7 +3,7 @@ from plotly.graph_objs import *
 import pymongo
 from bson.objectid import ObjectId
 
-py.sign_in('djr-jsr','6kj9df5zg6')
+py.sign_in('user','pwd')
 
 try:
 	connection1 = pymongo.MongoClient(host='localhost', port=27017)
