@@ -29,3 +29,4 @@
 
 # Word-cloud plotting
 - `fiverr_wordcloud.py`
+Makes a word-cloud of all the words used in the product reviews given in the file specified.
