@@ -1,7 +1,10 @@
 # Data Collection
+  All the below files crawl data from fiverr and store it in a json format. The below files also contained the code to push the json files into a mongo database from where it is easy to perform operations. There are different templates of web for different categories of fiverr and hence, different files.
 - `Main2.py`
+  This crawler was used for Programming and Tech category and other similar.
 - `Main_format2.py`
 - `others.py`
+  This crawler was used for Others category.
 - `username.py`
 
 # Processing
